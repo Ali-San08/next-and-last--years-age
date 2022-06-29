@@ -12,3 +12,4 @@ last = edad - var1
 print("Su edad el año anterior era ", last )
 
 print("y su edad el proximo año sera ", post )
+
